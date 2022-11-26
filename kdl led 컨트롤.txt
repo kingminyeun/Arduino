@@ -3,7 +3,7 @@
 
 // 아래의 6개설정은 사용자 환경에 맞게 수정하세요.
 const char* ssid = "iptime"; // 와이파이 AP, 또는 스마트폰의 핫스판 이름
-const char* password = "12345678";  // 와이파이 AP, 또는 스마트폰의 핫스판 이름(회사 6158141739)
+const char* password = "12345678";  // 와이파이 AP, 또는 스마트폰의 핫스판 이름(회사 )
 const char* mqtt_server = "broker.mqtt-dashboard.com"; //브로커 주소 192.168.0.91
 const char* outTopic = "/ykm/inTopic"; // 이름이 중복되지 않게 설정 기록
 const char* inTopic = "/ykm/outTopic"; // 이름이 중복되지 않게 설정 기록
